@@ -10,3 +10,6 @@
 0:0:0:0:0:0:0:1 - - [30/Sep/2020:18:01:20 -0700] "GET /Minglr/api/createUser HTTP/1.1" 405 749
 0:0:0:0:0:0:0:1 - - [30/Sep/2020:18:06:37 -0700] "POST /Minglr/api/createUser HTTP/1.1" 415 722
 0:0:0:0:0:0:0:1 - - [30/Sep/2020:18:07:08 -0700] "POST /Minglr/api/createUser HTTP/1.1" 500 4629
+127.0.0.1 - - [30/Sep/2020:18:10:01 -0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [30/Sep/2020:18:10:16 -0700] "POST /Minglr/api/createUser HTTP/1.1" 200 8
+0:0:0:0:0:0:0:1 - - [30/Sep/2020:18:14:08 -0700] "POST /Minglr/api/createUser HTTP/1.1" 200 8
